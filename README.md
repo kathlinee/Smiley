@@ -1,2 +1,5 @@
 # Smiley
-hikari-lightbulb discord bot
+
+- Smiley is a multipurpose discord bot
+- Written in python using the hikari-lightbulb lib
+- This barely works lmao 
